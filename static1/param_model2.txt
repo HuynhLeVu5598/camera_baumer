@@ -1,0 +1,7 @@
+A22=C:/Users/Administrator/Desktop/vu/camera_omron/model/best1_h.pt
+A19=C:/Users/Administrator/Desktop/vu/camera_omron/model/best2_h.pt
+size2=416
+conf2=25.0
+nut_me2=2100.0
+divat2=200.0
+me2=1200.0

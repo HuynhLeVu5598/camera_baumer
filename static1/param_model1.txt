@@ -1,0 +1,12 @@
+A22=C:/Users/Administrator/Desktop/vu/camera_omron/model/Cam2_1.pt
+A19=C:/Users/Administrator/Desktop/vu/camera_omron/model/Cam1_1.pt
+size1=416
+conf1=25.0
+nut_me1=2100.0
+divat1=200.0
+me1=1200.0
+namchamcao1=45.0
+traybactruc1=150.0
+divatduoi1=150.0
+kimcaomax1=50.0
+kimcaomin1=80.0

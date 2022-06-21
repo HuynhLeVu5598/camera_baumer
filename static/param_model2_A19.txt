@@ -1,0 +1,6 @@
+weights2=C:/Users/Administrator/Desktop/vu/camera_omron/model/Cam2_1.pt
+size2=416
+conf2=100.0
+nut_me2=20000.0
+divat2=20000.0
+me2=20000.0

@@ -1,0 +1,5 @@
+exposure1:10000.0
+gain1:208.0
+red1:100.0
+green1:100.0
+blue1:100.0

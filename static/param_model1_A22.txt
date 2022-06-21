@@ -1,0 +1,11 @@
+weights1=C:/Users/Administrator/Desktop/vu/camera_omron/model/best1_v.pt
+size1=416
+conf1=25.0
+nut_me1=0.0
+divat1=0.0
+me1=0.0
+namchamcao1=1.0
+traybactruc1=0.0
+divatduoi1=0.0
+kimcaomax1=1.0
+kimcaomin1=1.0

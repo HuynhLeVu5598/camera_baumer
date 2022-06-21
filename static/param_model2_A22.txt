@@ -1,0 +1,6 @@
+weights2=C:/Users/Administrator/Desktop/vu/camera_omron/model/best1_h.pt
+size2=416
+conf2=51.0
+nut_me2=1235.0
+divat2=4750.0
+me2=7670.0
